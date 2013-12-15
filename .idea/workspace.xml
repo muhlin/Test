@@ -78,7 +78,7 @@
       <file leaf-file-name="Test.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+            <state line="8" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -370,7 +370,11 @@
       <created>1387087708192</created>
       <updated>1387087708192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second try&#10;">
+      <created>1387087997877</created>
+      <updated>1387087997877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -415,7 +419,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Second try" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second try" />
+    <MESSAGE value="Second try&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second try&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -448,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+        <state line="8" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
