@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc39ecd-b6e9-4ea9-b595-8efd9ced91fb" name="Default" comment="Third Try&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestTest.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -80,7 +79,7 @@
       <file leaf-file-name="Test.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.26444444" vertical-offset="0" max-vertical-offset="450">
+            <state line="8" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -403,7 +402,11 @@
       <created>1387088096009</created>
       <updated>1387088096009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third Try&#10;">
+      <created>1387088718970</created>
+      <updated>1387088718970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -492,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.26444444" vertical-offset="0" max-vertical-offset="450">
+        <state line="8" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
